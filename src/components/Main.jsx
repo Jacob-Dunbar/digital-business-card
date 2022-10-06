@@ -6,16 +6,17 @@ const Main = () => {
       <section>
         <h2 className="main__heading">About</h2>
         <p className="main__p">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo
-          necessitatibus provident, odio nesciunt sunt aliquid ullam autem
-          repellat magni pariatur quidem maiores dolor eius dolorem perspiciatis
+          I am a fledgling developer, furiously flapping towards my goal of web
+          dev proficiency. As my development skills grow, so too does my passion
+          for code. I also have a deep interest in design which I think
+          compliments my skills.
         </p>
       </section>
       <section>
         <h2 className="main__heading">Interests</h2>
         <p className="main__p">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Explicabo
-          necessitatibus provident, odio nesciunt sunt aliquid ullam autem
+          Books about wizards, swords and dragons, carnivorous plants, 90s
+          computer games and copperplate calligraphy.
         </p>
       </section>
     </main>
