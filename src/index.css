@@ -43,7 +43,12 @@ body {
 }
 
 .header__title {
-  color: #f3bf99;
+  background-color: #eab03c;
+  background-image: linear-gradient(to left, #ffd570 0%, #eab03c 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
   font-size: 13px;
   font-weight: 400;
   line-height: 15px;
