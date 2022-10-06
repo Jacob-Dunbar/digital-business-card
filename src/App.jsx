@@ -5,8 +5,8 @@ import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
-    <div className="App">
-      <img src={MyFace} alt="" />
+    <div className="app">
+      <img className="hero" src={MyFace} alt="" />
       <Header />
       <Main />
       <Footer />

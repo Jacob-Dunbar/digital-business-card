@@ -8,11 +8,11 @@ const Header = () => {
       <p className="header__url">mywebite@url.com</p>
 
       <div className="header__btns">
-        <button className="header__btns--email">
-          <i className="fa fa-envelope"></i>Email
+        <button className="header__btn">
+          <i className="fa fa-envelope icon"></i>Email
         </button>
-        <button className="header__btns--linkedin">
-          <i className="fab fa-linkedin"></i>LinkedIn
+        <button className="header__btn linkedin">
+          <i className="fab fa-linkedin icon"></i>LinkedIn
         </button>
       </div>
     </header>
