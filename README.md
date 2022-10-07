@@ -19,13 +19,11 @@ This is the first solo project in the Scrimba Learn React course.
 
 ### The challenge
 
-Users should be able to:
-
 To build a digital business card using React and following the Figma design file provided.
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./screenshot.jpg)
 
 ### Links
 
